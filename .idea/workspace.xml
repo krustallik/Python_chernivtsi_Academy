@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion" />
+    <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion">
+      <change afterPath="$PROJECT_DIR$/lesson_14_02_2024/list_of_pupils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +56,7 @@
     "Python.abcd.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.distance_to_towns.executor": "Run",
+    "Python.list_of_pupils.executor": "Debug",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -181,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707927099183</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1707927454812</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707927454812</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
