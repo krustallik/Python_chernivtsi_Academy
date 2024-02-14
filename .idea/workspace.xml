@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion">
-      <change afterPath="$PROJECT_DIR$/lesson_14_02_2024/list_of_pupils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_14_02_2024/Grades_and_pupils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,10 +53,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Grades_and_pupils.executor": "Run",
     "Python.abcd.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.distance_to_towns.executor": "Run",
-    "Python.list_of_pupils.executor": "Debug",
+    "Python.list_of_pupils.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -193,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707927454812</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1707929107838</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707929107838</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
