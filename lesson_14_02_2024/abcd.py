@@ -2,5 +2,5 @@ def plus(a, b):
     return a + b
 
 
-tr = plus(5, 6)
+tr = plus(8, 6)
 print(tr)
