@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion">
-      <change afterPath="$PROJECT_DIR$/lesson_16_02_2024/looking_for_word_in_random_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_16_02_2024/caesar_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_16_02_2024/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +58,7 @@
     "Python.Palindrom_looking.executor": "Debug",
     "Python._pydev_execfile.executor": "Debug",
     "Python.abcd.executor": "Run",
+    "Python.caesar_cipher.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.distance_to_towns.executor": "Run",
     "Python.list_of_pupils.executor": "Run",
@@ -230,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708098675057</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1708099514196</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708099514196</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
