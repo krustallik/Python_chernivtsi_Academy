@@ -27,7 +27,7 @@ def is_input_correct(sentence):
         index += 1
 
     return True
-
+#fsdf
 while True:
     sentence = str(input("Enter brackets or enter to quit: "))
     while not is_only_brackets(sentence):
