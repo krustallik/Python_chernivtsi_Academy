@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion">
-      <change beforePath="$PROJECT_DIR$/lesson_21_02_2024/checking.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_21_02_2024/checking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_21_02_2024/sudoku.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
     "Python.list_of_pupils.executor": "Run",
     "Python.looking_for_word_in_random_letters.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.sudoku.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -272,7 +274,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708589711446</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1708590073225</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708590073225</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1708590327622</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708590327622</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
