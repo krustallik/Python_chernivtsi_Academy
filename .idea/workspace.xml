@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion">
-      <change afterPath="$PROJECT_DIR$/lesson_21_02_2024/sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_21_02_2024/X_and_0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.Brackets.executor": "Run",
     "Python.Grades_and_pupils.executor": "Run",
     "Python.Palindrom_looking.executor": "Debug",
+    "Python.X_and_0.executor": "Run",
     "Python._pydev_execfile.executor": "Debug",
     "Python.abcd.executor": "Run",
     "Python.caesar_cipher.executor": "Run",
@@ -290,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708590327622</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1708593116651</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1708593116652</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
