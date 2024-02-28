@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion">
+      <change afterPath="$PROJECT_DIR$/lesson_28_02_2024/ShopOrder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +57,8 @@
     "Python.Grades_and_pupils.executor": "Run",
     "Python.Os_info.executor": "Run",
     "Python.Palindrom_looking.executor": "Debug",
+    "Python.Point_OOP.executor": "Run",
+    "Python.ShopOrder.executor": "Run",
     "Python.System.information.executor": "Run",
     "Python.X_and_0.executor": "Run",
     "Python._pydev_execfile.executor": "Debug",
@@ -332,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708768351070</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1709136970684</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709136970684</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
