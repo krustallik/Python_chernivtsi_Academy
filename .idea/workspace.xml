@@ -50,31 +50,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Brackets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Grades_and_pupils.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Palindrom_looking.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.System.information.executor&quot;: &quot;Run&quot;,
-    &quot;Python.X_and_0.executor&quot;: &quot;Run&quot;,
-    &quot;Python._pydev_execfile.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.abcd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.caesar_cipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.checking.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.distance_to_towns.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_of_pupils.executor&quot;: &quot;Run&quot;,
-    &quot;Python.looking_for_word_in_random_letters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sudoku.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Brackets.executor": "Run",
+    "Python.Grades_and_pupils.executor": "Run",
+    "Python.Os_info.executor": "Run",
+    "Python.Palindrom_looking.executor": "Debug",
+    "Python.System.information.executor": "Run",
+    "Python.X_and_0.executor": "Run",
+    "Python._pydev_execfile.executor": "Debug",
+    "Python.abcd.executor": "Run",
+    "Python.caesar_cipher.executor": "Run",
+    "Python.checking.executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.distance_to_towns.executor": "Run",
+    "Python.list_of_pupils.executor": "Run",
+    "Python.looking_for_word_in_random_letters.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.sudoku.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PythonProgramming\Python_chernivtsi_Academy\lesson_14_02_2024" />
@@ -323,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708705710488</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1708768351070</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1708768351070</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
