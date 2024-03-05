@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion">
-      <change afterPath="$PROJECT_DIR$/lesson_05_03_2024/Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extendions2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_05_03_2024/ukrainian_leters_to_latin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +56,7 @@
   "keyToString": {
     "Python.Brackets.executor": "Run",
     "Python.Extending.executor": "Run",
+    "Python.Extendions2.executor": "Run",
     "Python.Fraction.executor": "Run",
     "Python.Grades_and_pupils.executor": "Run",
     "Python.Os_info.executor": "Run",
@@ -74,6 +76,7 @@
     "Python.looking_for_word_in_random_letters.executor": "Run",
     "Python.main.executor": "Run",
     "Python.sudoku.executor": "Run",
+    "Python.ukrainian_leters_to_latin.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -378,7 +381,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709655762808</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1709656801974</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1709656801974</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
