@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion">
-      <change afterPath="$PROJECT_DIR$/lesson_28_02_2024/Fraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_28_02_2024/Vector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_05_03_2024/Extending.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Brackets.executor": "Run",
+    "Python.Extending.executor": "Run",
     "Python.Fraction.executor": "Run",
     "Python.Grades_and_pupils.executor": "Run",
     "Python.Os_info.executor": "Run",
@@ -362,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709137748328</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1709140218941</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1709140218941</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
