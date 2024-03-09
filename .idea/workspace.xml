@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion" />
+    <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion">
+      <change afterPath="$PROJECT_DIR$/lesson_06_03_2024/Polymorfizm_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_06_03_2024/ipAdresses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +62,7 @@
     "Python.Os_info.executor": "Run",
     "Python.Palindrom_looking.executor": "Debug",
     "Python.Point_OOP.executor": "Run",
+    "Python.Polymorfizm_1.executor": "Run",
     "Python.ShopOrder.executor": "Run",
     "Python.System.information.executor": "Run",
     "Python.Vector.executor": "Run",
@@ -68,6 +73,7 @@
     "Python.checking.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.distance_to_towns.executor": "Run",
+    "Python.ipAdresses.executor": "Run",
     "Python.list_of_pupils.executor": "Run",
     "Python.looking_for_word_in_random_letters.executor": "Run",
     "Python.main.executor": "Run",
@@ -83,6 +89,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonProgramming\Python_chernivtsi_Academy\lesson_05_03_2024" />
       <recent name="D:\PythonProgramming\Python_chernivtsi_Academy\lesson_14_02_2024" />
     </key>
   </component>
@@ -393,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709662618112</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1709662655441</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1709662655441</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
