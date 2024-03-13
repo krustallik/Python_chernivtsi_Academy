@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b56af7b2-ebf7-45a9-99fd-9b670da1e431" name="Changes" comment="add_a+b_funktion">
-      <change afterPath="$PROJECT_DIR$/lesson_06_03_2024/Car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_13_03_2024/Buttons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Brackets.executor": "Run",
+    "Python.Buttons.executor": "Run",
+    "Python.Car.executor": "Run",
     "Python.Exceptions.executor": "Run",
     "Python.Extending.executor": "Run",
     "Python.Extendions2.executor": "Run",
@@ -76,6 +79,7 @@
     "Python.list_of_pupils.executor": "Run",
     "Python.looking_for_word_in_random_letters.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.snake.executor": "Run",
     "Python.sudoku.executor": "Run",
     "Python.ukrainian_leters_to_latin.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -423,7 +427,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710007671133</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1710008039956</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1710008039956</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add_a+b_funktion">
+      <option name="closed" value="true" />
+      <created>1710343078946</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1710343078946</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
